@@ -26,12 +26,12 @@
      src="https://mir-s3-cdn-cf.behance.net/projects/404/b85584166434737.Y3JvcCwzMTk2LDI0OTksMTUwLDA.jpg"/>
 
 ###  About Me
-- 🎓 **B.Tech IT**  
-- 💻 **Full Stack Developer (MERN)**  
-- 🤖 **AI / ML & Deep Learning Enthusiast**  
-- ⚙️ **C++ & DSA Lover**  
-- 🧠 Building **smart & scalable systems**  
-- 🌱 Exploring **Blockchain & Web3**
+-  **B.Tech IT**  
+-  **Full Stack Developer (MERN)**  
+-  **AI / ML & Deep Learning Enthusiast**  
+-  **C++ & DSA Competitive Programmer**  
+-  Building **smart & scalable systems**  
+-  Exploring **Blockchain & Web3**
 
 ---
 
